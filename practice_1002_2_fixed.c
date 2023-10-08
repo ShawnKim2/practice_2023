@@ -20,7 +20,7 @@ int main(void)
 {
     int number;
     printf("input number: \n");
-    scanf("%d", &number);
+    scanf("%d", &number);         //I fixed this part
     my_func(1, number);
     
     return 0;
